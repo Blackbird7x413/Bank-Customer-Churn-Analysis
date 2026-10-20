@@ -30,7 +30,7 @@ Further correlation analysis was conducted to uncover the underlying mechanism:
 ### 4. Validation via Pivot Tables
 Cross-tabulation using Excel Pivot Tables confirmed the statistical model: customer churn is directly tied to reduced activity and engagement among older demographics.
 
-![Bank Churn Statistical Analysis Excel](Desktop Screenshot 2026.10.20 - 14.56.27.54.jpg)
+![Bank Churn Statistical Analysis Excel](projext.jpg)
 
 ---
 
